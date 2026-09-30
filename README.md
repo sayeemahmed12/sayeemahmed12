@@ -1,10 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=navbar" width="100%" />
-
-# Hi 👋, I'm Sayeem Ahmed  
-
-### Full-Stack Web Developer | Problem Solver | Lifelong Learner
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Hi%20👋,%20I'm%20Sayeem%20Ahmed&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+Next.js+Developer;Django+%7C+DRF+Developer;C%2B%2B+%7C+DSA+Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
 
@@ -96,7 +92,8 @@ const sayeem = {
 
     databases: [
         "PostgreSQL",
-        "MySQL"
+        "MySQL",
+        "MongoDB"
     ],
 
     programming: [

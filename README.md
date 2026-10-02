@@ -2,11 +2,11 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Hi%20👋,%20I'm%20Sayeem%20Ahmed&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+Next.js+Developer;Django+%7C+DRF+Developer;C%2B%2B+%7C+DSA+Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+Next.js+Developer;Django+%7C+DRF+Developer;C%2B%2B+%7C+DSA+Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
 
----
+</br>
 
 ## 👨‍💻 About Me
 
@@ -14,7 +14,7 @@ I'm **Sayeem Ahmed**, a passionate **Full-Stack Web Developer** who enjoys build
 
 I work across both **frontend and backend development**, with a strong interest in creating clean user experiences, building REST APIs, working with databases, and solving challenging programming problems.
 
----
+</br>
 
 ## 🛠️ Tech Stack
 
@@ -54,18 +54,26 @@ I work across both **frontend and backend development**, with a strong interest 
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 </p>
 
----
+</br>
+
+## 🏆 Competitive Programming & Coding Profiles
+
+[<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" height="35" />](https://codeforces.com/profile/Sayeem_Ahmed)
+[<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35" />](https://leetcode.com/SayeemAhmed12)
+[<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" height="35" />](https://www.codechef.com/users/sayeem_ahmed)
+
+</br>
 
 ## 🚀 What I'm Currently Focusing On
 
 ```text
 Frontend        ███████████████████░   React / Next.js
-Backend         ██████████████████░░   Django / DRF
-Database        ███████████████░░░░░   PostgreSQL / MySQL
+Backend         ██████████████████░░   Node.js / Express.js
+Database        ███████████████░░░░░   PostgreSQL / MongoDB
 Problem Solving ████████████████░░░░   DSA / C++
 ```
 
----
+</br>
 
 ## 🎯 Development Goals
 
@@ -87,7 +95,9 @@ const sayeem = {
     backend: [
         "Python",
         "Django",
-        "Django REST Framework"
+        "Django REST Framework",
+        "Node.js",
+        "Express.js",
     ],
 
     databases: [
@@ -113,7 +123,7 @@ const sayeem = {
 };
 ```
 
----
+</br>
 
 ## 📊 GitHub Statistics
 
@@ -126,11 +136,13 @@ const sayeem = {
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 
----
+</br>
 
 ## 🌐 Connect With Me
 
 <div align="center">
+
+</br>
 
 <a href="https://github.com/sayeemahmed12">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />

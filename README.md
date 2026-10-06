@@ -2,7 +2,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Hi%20👋,%20I'm%20Sayeem%20Ahmed&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+Next.js+Developer;Django+%7C+DRF+Developer;C%2B%2B+%7C+DSA+Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+Next.js+Developer;Node.js+%7C+Express.js+Developer;Django+%7C+DRF+Developer;C%2B%2B+%7C+DSA+Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
 
@@ -10,9 +10,17 @@
 
 ## 👨‍💻 About Me
 
-I'm **Sayeem Ahmed**, a passionate **Full-Stack Web Developer** who enjoys building modern, responsive, and scalable web applications.
+I’m a **Full-Stack Developer** passionate about building modern, scalable web applications and well-structured REST APIs. I enjoy turning ideas into practical, user-friendly applications while continuously improving my backend engineering and problem-solving skills.
 
-I work across both **frontend and backend development**, with a strong interest in creating clean user experiences, building REST APIs, working with databases, and solving challenging programming problems.
+* 💻 **Full-Stack Web Developer** focused on modern web technologies
+* ⚙️ Currently focusing on **Node.js & Express.js** for backend development
+* 🔙 Interested in **Backend Engineering, API Design & System Architecture**
+* 🌐 Experienced with **React & Next.js** for building responsive frontends
+* 🐍 Experienced with **Python, Django & Django REST Framework**
+* 🧠 Practicing **Data Structures & Algorithms** with C++
+* 🗄️ Exploring **Databases, Authentication & Secure API Development**
+* 🚀 Building **real-world full-stack projects** to strengthen my skills
+* 📚 **Always learning, experimenting, and improving**
 
 </br>
 
@@ -21,13 +29,13 @@ I work across both **frontend and backend development**, with a strong interest 
 ### 🌐 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
+  <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" /> </p>
 </p>
 
 ### ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 </p>
 
 <p>
@@ -37,7 +45,7 @@ I work across both **frontend and backend development**, with a strong interest 
 ### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
 
 ### 💻 Programming & Problem Solving
@@ -67,10 +75,10 @@ I work across both **frontend and backend development**, with a strong interest 
 ## 🚀 What I'm Currently Focusing On
 
 ```text
-Frontend        ███████████████████░   React / Next.js
+Frontend        ██████████████░░░░░░   React / Next.js
 Backend         ██████████████████░░   Node.js / Express.js
-Database        ███████████████░░░░░   PostgreSQL / MongoDB
-Problem Solving ████████████████░░░░   DSA / C++
+Database        ████████████████░░░░   PostgreSQL / MongoDB
+Problem Solving █████████████░░░░░░░   DSA / C++
 ```
 
 </br>
@@ -93,8 +101,6 @@ const sayeem = {
     ],
 
     backend: [
-        "Python",
-        "Django",
         "Django REST Framework",
         "Node.js",
         "Express.js",
@@ -119,7 +125,7 @@ const sayeem = {
         "Data Structures & Algorithms"
     ],
 
-    goal: "Build scalable applications and become a professional software developer"
+    goal: "Build scalable applications and become a professional Full-Stack Developer"
 };
 ```
 
@@ -169,5 +175,5 @@ const sayeem = {
   
 ### 💡 "Build. Break. Learn. Improve. Repeat."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%" />
 </div>
